@@ -1,8 +1,12 @@
 const textConfig = {
   text1: "Happy birthdayyy ♡",
   text2: "chúc mừng sinh nhật chị P",
-  text3: "hãy có một ngày thật là vuiiii nhé? cf đi c",
-  text4: "=))) oi nhớ lại năm ngoái sn e cho chị hẳn 2p để chúc, kiểu mấy năm gần đây cũng quen tắt hết thông báo r cũm kh ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@ hôm đó chiều còn đi họp ban với c, tóm lại là kiểu, chị như người may mắn được được e chọn =)) lúc đấy ntin với c e cũng thấy dễ nch :)) dù chỉ là một mẩu 2p nhưng e nghĩ nhiều khi như thế cũng đủ làm nên 1 ngày r ^^ ",
+  text3: `hãy có một ngày thật là vuiiii nhé?
+          cf đi chị`,
+  text4: `=))) oi nhớ lại năm ngoái sn e cho chị hẳn 2p để chúc,
+          kiểu mấy năm gần đây cũng quen tắt hết thông báo r cũm kh ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@
+          hôm đó chiều còn đi họp ban với c, tóm lại là kiểu, chị như người may mắn được được e chọn =))
+          lúc đấy ntin với c e cũng thấy dễ nch :)) dù chỉ là một mẩu 2p nhưng e nghĩ nhiều khi như thế cũng đủ làm nên 1 ngày r ^^ `,
   text5: "khum hahahah",
   text6: "yess nhất định",
   text7: "nhớ mua mì trẻ em cho em đấy ☻",
@@ -38,7 +42,7 @@ $(document).ready(function () {
       imageUrl: "https://raw.githubusercontent.com/takoizume/20thg10withA3/main/img/logi.gif",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#fff url("img/iput-bg.jpg")',
+      background: '#fff url("https://drive.google.com/file/d/1m86_g_d2EIR-fadZnjIc9jCQ0kAdSQCx/view?usp=sharing")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
