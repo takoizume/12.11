@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Happy birthday ♡",
+  text1: "Happy birthdayyy ♡",
   text2: "chúc mừng sinh nhật chị P",
-  text3: "Có một ngày thật là vui vẻ nhé?",
-  text4: "khum trả lời = e dỗi c",
+  text3: "hãy có một ngày thật là vuiiii nhé? cf đi c",
+  text4: "=))) oi nhớ lại năm ngoái sn e cho chị hẳn 2p để chúc, kiểu mấy năm gần đây cũng quen tắt hết thông báo r cũm kh ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@ hôm đó chiều còn đi họp ban với c, tóm lại là kiểu, chị như người may mắn được được e chọn =)) lúc đấy ntin với c e cũng thấy dễ nch :)) dù chỉ là một mẩu 2p nhưng e nghĩ nhiều khi như thế cũng đủ làm nên 1 ngày r ^^ ",
   text5: "khum hahahah",
   text6: "yess nhất định",
-  text7: "ơ nma trước c cứ khen giọng e ☻",
-  text8: "kệ m",
-  text9: "đùa thoi",
+  text7: "nhớ mua mì trẻ em cho em đấy ☻",
+  text8: "hứa!",
+  text9: "oke luôn khi nào gặp mua cho hẳn 10 gói nhó :>",
   text10: "đến giờ học r",
   text11:
     "xem webinar nhé chị :)) e mông lung ~~~ chắc cần c giúp đỡ nhiều",
-  text12: "xem!!",
+  text12: "xem thử @@",
 };
 
 $(document).ready(function () {
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "https://apod.nasa.gov/apod/image/2004/ISS002-E-7377_1024c.jpg",
+      imageUrl: "https://raw.githubusercontent.com/takoizume/20thg10withA3/main/img/logi.gif",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
