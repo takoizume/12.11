@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "Happy birthdayyy ♡",
   text2: "chúc mừng sinh nhật chị P",
-  text3: `test
+  text3: `
           hãy có một ngày thật là vuiiii nhé?
           cf đi chị`,
   text4: `=))) oi nhớ lại năm ngoái sn e cho chị hẳn 2p để chúc,
@@ -43,7 +43,7 @@ $(document).ready(function () {
       imageUrl: "https://raw.githubusercontent.com/takoizume/20thg10withA3/main/img/logi.gif",
       imageWidth: 300,
       imageHeight: 300,
-      background: '#fff url("https://drive.google.com/file/d/1m86_g_d2EIR-fadZnjIc9jCQ0kAdSQCx/view?usp=sharing")',
+      background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
       $(".content").show(200);
@@ -119,11 +119,11 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='.....'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
-                    url("img/giphy2.gif")
+                    url("https://drive.google.com/file/d/1m8BIfQWqgyhT9mRbofx0_nkcf5tbYUaV/view?usp=sharing")
                     left top
                     no-repeat
                   `,
