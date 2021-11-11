@@ -1,22 +1,23 @@
 const textConfig = {
   text1: "Happy birthdayyy ♡",
-  text2: "chúc mừng sinh nhật chị P",
+  text2: "Chúc mừng sinh nhật chị P. Hy vọng những may mắn và tốt đẹp sẽ đến trong thời gian tới, mà nếu khum thì cũng chẳng sao vì em chúc nó sẽ trở thành những trải nghiệm hay ho và đáng nhớ đối với chị. Mong c có nhiều sức khỏe, tràn đầy năng lượng để theo đuổi và làm những điều mình muốn một cách thuận với cả lý trí và cảm xúc nhất hehe",
   text3: `
-          hãy có một ngày thật là vuiiii nhé?
-          cf ik chị :>`,
-  text4: `=))) oi nhớ lại năm ngoái sn e cho chị hẳn 2p để chúc,
-          kiểu mấy năm gần đây cũng quen tắt hết thông báo r cũm kh ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@
-          hôm đó chiều còn đi họp ban với c, tóm lại là kiểu, chị như người may mắn được được e chọn =))
-          lúc đấy ntin với c e cũng thấy dễ nch :)) dù chỉ là một mẩu 2p nhưng e nghĩ nhiều khi như thế cũng đủ làm nên 1 ngày r ^^ `,
+          Hãy có một ngày thật là vuiiii nhé?
+          Cf ik chị :>`,
+  text4: `Nhớ lại năm ngoái =)) sn e cho chị hẳn 2p để chúc.
+          Kiểu mấy năm gần đây e cũng quen tắt hết thông báo r khum ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@
+          cái hôm đó chiều còn đi họp ban với c, k biết c có để ý k nhưng e vẫn nhắn đùa c là người may mắn được chọn =)) 
+          bằng một cách nào đấy e luôn cảm thấy dễ mở lòng để nhắn chuyện riêng hoặc mấy cái nhảm nhí với chị cơ .-.
+          với e thì, dù chỉ là một mẩu vỏn vẹn 2 phút nhưng như thế cũng đã đủ làm nên 1 ngày r ^^  còn c thì nên có nhiều hơn 2 phút, nên là cf đi c`,
   text5: "khum hahahah",
   text6: "yess nhất định",
   text7: "nhớ mua mì trẻ em cho em đấy ☻",
   text8: "hứa!",
   text9: "oke luôn khi nào gặp mua cho hẳn 10 gói nhó :>",
-  text10: "đến giờ học r",
+  text10: "D: đến giờ học r",
   text11:
-    "xem webinar nhé chị :)) e mông lung ~~~ chắc cần c giúp đỡ nhiều",
-  text12: "xem thử @@",
+    "xem webinar nhé chị :)) e k biết tặng gì ngoài cái này nữa :)) nếu có hứng thú về thuốc thì chắc là nó sẽ có ích. e thì vẫn đang mông lung ~~~ chắc cần c giúp đỡ nhiều",
+  text12: "xem thử",
 };
 
 $(document).ready(function () {
