@@ -1,7 +1,8 @@
 const textConfig = {
   text1: "Happy birthdayyy ♡",
   text2: "chúc mừng sinh nhật chị P",
-  text3: `hãy có một ngày thật là vuiiii nhé?
+  text3: `test
+          hãy có một ngày thật là vuiiii nhé?
           cf đi chị`,
   text4: `=))) oi nhớ lại năm ngoái sn e cho chị hẳn 2p để chúc,
           kiểu mấy năm gần đây cũng quen tắt hết thông báo r cũm kh ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@
