@@ -22,7 +22,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  opacity: .4;
+  opacity: .88;
   /* height: 100vh; */
   z-index: 0;
   background-repeat: no-repeat;
@@ -39,25 +39,25 @@
 }
 
 header h2 {
-  font-family: 'Verdana';
+  font-family: 'Florence';
   font-size: 80px;
   text-align: center;
 	margin-bottom: 30px;
 }
 header h4 {
-  font-family: 'Verdana';
+  font-family: 'Florence';
   text-align: center;
 }
 
 @media only screen and (max-width: 500px) {
   header h2 {
-    font-family: 'Mochiy Pop P One';
+    font-family: 'Florence';
     font-size: 45px;
     text-align: center;
     margin-bottom: 30px;
   }
   header h4 {
-    font-family: 'Mochiy Pop P One';
+    font-family: 'Florence';
     text-align: center;
     padding: 15px;
   }
