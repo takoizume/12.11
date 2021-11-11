@@ -39,25 +39,25 @@
 }
 
 header h2 {
-  font-family: 'Verdana', cursive;
+  font-family: 'Verdana';
   font-size: 80px;
   text-align: center;
 	margin-bottom: 30px;
 }
 header h4 {
-  font-family: 'Arial', fantasy;
+  font-family: 'Verdana';
   text-align: center;
 }
 
 @media only screen and (max-width: 500px) {
   header h2 {
-    font-family: 'Helvetica';
+    font-family: 'Verdana';
     font-size: 45px;
     text-align: center;
     margin-bottom: 30px;
   }
   header h4 {
-    font-family: 'Helvetica';
+    font-family: 'Verdana';
     text-align: center;
     padding: 15px;
   }
