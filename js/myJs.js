@@ -3,7 +3,7 @@ const textConfig = {
   text2: "chúc mừng sinh nhật chị P",
   text3: `
           hãy có một ngày thật là vuiiii nhé?
-          cf đi chị`,
+          cf ik chị :>`,
   text4: `=))) oi nhớ lại năm ngoái sn e cho chị hẳn 2p để chúc,
           kiểu mấy năm gần đây cũng quen tắt hết thông báo r cũm kh ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@
           hôm đó chiều còn đi họp ban với c, tóm lại là kiểu, chị như người may mắn được được e chọn =))
@@ -123,7 +123,7 @@ $(document).ready(function () {
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
-                    url("https://drive.google.com/file/d/1m8BIfQWqgyhT9mRbofx0_nkcf5tbYUaV/view?usp=sharing")
+                    url("https://lh5.googleusercontent.com/6n_XZWbkr6SMtnFLWrqODGGg2vCv8GPnsBC4unHE6VsAp7vmN8JBrnSzts-sO9XZ6qJd7C5mdl7xGg=w1512-h844")
                     left top
                     no-repeat
                   `,
