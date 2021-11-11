@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Happy birthday ♡",
+  text2: "chúc mừng sinh nhật chị P",
+  text3: "Có một ngày thật là vui vẻ nhé?",
+  text4: "khum trả lời = e dỗi c",
+  text5: "khum hahahah",
+  text6: "yess nhất định",
+  text7: "ơ nma trước c cứ khen giọng e ☻",
+  text8: "kệ m",
+  text9: "đùa thoi",
+  text10: "đến giờ học r",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "xem webinar nhé chị :)) e mông lung ~~~ chắc cần c giúp đỡ nhiều",
+  text12: "xem!!",
 };
 
 $(document).ready(function () {
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "https://apod.nasa.gov/apod/image/2004/ISS002-E-7377_1024c.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.youtube.com/playlist?list=PLuu93uG13bhAjqweoZ51SCBT3yypALkWt";
           },
         });
       }
