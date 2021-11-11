@@ -39,13 +39,13 @@
 }
 
 header h2 {
-  font-family: 'Helvetica';
+  font-family: 'Helvetica', cursive;
   font-size: 80px;
   text-align: center;
 	margin-bottom: 30px;
 }
 header h4 {
-  font-family: 'Helvetica';
+  font-family: 'Helvetica', fantasy;
   text-align: center;
 }
 
